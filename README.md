@@ -1,1 +1,1 @@
-<p>Welcome to our project dedicated to detecting credit card fraud using machine learning algorithms. Our goal is to develop a robust system that can accurately identify fraudulent transactions to enhance security in financial transactions.</p>
+<p>Welcome to my project dedicated to detecting credit card fraud using machine learning algorithms. Our goal is to develop a robust system that can accurately identify fraudulent transactions to enhance security in financial transactions.</p>
